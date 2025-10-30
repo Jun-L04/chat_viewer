@@ -1,0 +1,4 @@
+- Open terminal on the computer
+- Navigate to the folder containing this script.py
+- Download the desired json file into the same folder
+- Enter the command: streamlit run script.py 
